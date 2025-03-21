@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/moiSentineL/podcast/blob/e6bcc7302657dd49b350b33fa9cbf79c957c5379/images/avatar.png" width="300" style="margin-right: 10px; vertical-align: middle">
+  <img src="https://raw.githubusercontent.com/moiSentineL/podcast/refs/heads/main/images/avatar.png" width="300" style="margin-right: 10px; vertical-align: middle">
 </p>
 
 # Vision of Life Podcast
